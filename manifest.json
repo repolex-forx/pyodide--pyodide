@@ -219,7 +219,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/numpy/lib/_shape_base_impl.py"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/276aff3ecadb34681a065fe8cadb178b58f5aa4a/chunk-001.nq.gz",
+      "dep": "dep/276aff3ecadb34681a065fe8cadb178b58f5aa4a.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
